@@ -1,3 +1,6 @@
+#Creator: Hunter Jeffries
+#Teacher And Great Help: Austin Boydston
+
 import random
 print("After traversing a dungeon in search of a mystical spell book, you encounter a furious skeleton, filled with hatred from his untimely demise. He makes mouth movements akin to talking, but, due to the lack of... uh... really anything, he just lets out a terible rattling sound")
 print("THE FIGHT BEGINS! What will you do? you:[HP-100 ARMOR-20] Skelly:[HP-140]  1.[GREATWSORD SLASH -64hp, high chance to dismember] 2.[CROSSBOW BOLT -20hp, moderate chance to penetrate armor] 3.[DAGGER SLICE -15hp, Slight chance to cause bleed]")
